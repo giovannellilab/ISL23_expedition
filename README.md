@@ -21,8 +21,6 @@ The reposeitory contains the following files:
 - ISL23_env_dataset - Table 1.csv (the file containing the data reported in Table 1 of the report)
 
 
-Future data from Leg2 will be uploaded to this repository.
-
 Please cite as:
 
 Francesco Montemagno, Martina Cascone, Feliciana Oliva, Annarita Ricciardelli, Jake Lowe, Angelina Cordone, Namitha Kumar, Peter H. Barry, Carlos Ramirez, Roy Price, Snaedis Bjornsdottir, Ingi Agnarsson, Andri Stefansson, Saemundur Ari Halldorsson, J. Maarten de Moor, and Donato Giovannelli. 2025. Sampling deeply sourced seeps around the golden ring, Iceland: ISL23 expedition report. _Open Research Europe_
